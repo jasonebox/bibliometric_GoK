@@ -1,2 +1,5 @@
 # bibliometric_GoK
-some bibliometric tools
+bibliometric tools in simple and 'read from an Excel database' forms that obtain
+citation count(s)
+altmetric record(s)
+bibtex record(s)
